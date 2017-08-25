@@ -2,16 +2,16 @@
   "name": "code-and-magic",
   "version": "1.0.0",
   "private": true,
-  "description": "Учебный проект «Код и Магия» от HTML Academy",
-  "author": "Александр Юдин",
+  "description": "",
+  "author": "",
   "repository": {
     "type": "git",
-    "url": "git@github.com:htmlacademy-javascript/103487-code-and-magick.git"
+    "url": ""
   },
   "bugs": {
-    "url": "https://github.com/htmlacademy-javascript/103487-code-and-magick/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/htmlacademy-javascript/103487-code-and-magick",
+  "homepage": "",
   "devDependencies": {
     "eslint": "3.9.0",
     "eslint-config-htmlacademy": "0.2.x"
